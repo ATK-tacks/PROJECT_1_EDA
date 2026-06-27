@@ -178,12 +178,6 @@ This project helped develop practical skills in:
 
 ---
 
-## 👨‍💻 Author
-
-**AI & ML Internship Project**
-
----
-
 ## ⭐ Acknowledgements
 
 Special thanks to the internship program for providing this project and the Zomato dataset for enabling practical data analysis and visualization.
